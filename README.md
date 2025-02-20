@@ -1,5 +1,7 @@
 Curriculum Vitae - Matias Teijeiro
 
+El proyecto fue sacado de https://roadmap.sh/projects/single-page-cv
+
 Este es un CV en formato web desarrollado en HTML y CSS. Puedes ejecutarlo fácilmente en tu navegador o alojarlo en un servidor para compartirlo en línea.
 
 📂 Estructura del Proyecto
