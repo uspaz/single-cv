@@ -8,8 +8,6 @@ Este es un CV en formato web desarrollado en HTML y CSS. Puedes ejecutarlo fáci
 
 📁 single-cv/
 │── 📄 CV-Page.html  # Archivo principal
-│── 📄 styles.css    # Archivo de estilos
-│── 📄 cv.png        # Imagen de perfil
 │── 📄 favicon.ico   # Ícono del sitio
 
 🚀 Cómo Ejecutar el Proyecto
@@ -56,7 +54,7 @@ Si deseas modificar el CV:
 
 Edita el archivo CV-Page.html para cambiar el contenido.
 
-Modifica styles.css para cambiar el diseño.
+Modifica styles para cambiar el diseño.
 
 Cambia cv.png para actualizar la imagen de perfil.
 
